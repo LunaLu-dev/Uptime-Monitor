@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 611,
+    "timeDay": 543,
     "timeWeek": 611,
     "timeMonth": 611,
     "timeYear": 611,
@@ -22,17 +22,19 @@
     "url": "https://nextcloud.lunalu.org",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.lunalu.org.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1039,
-    "timeDay": 1039,
-    "timeWeek": 1039,
-    "timeMonth": 1039,
-    "timeYear": 1039,
-    "dailyMinutesDown": {}
+    "time": 1909,
+    "timeDay": 2219,
+    "timeWeek": 1909,
+    "timeMonth": 1909,
+    "timeYear": 1909,
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   }
 ]
