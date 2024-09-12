@@ -5,43 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lunalu.org.ico",
     "slug": "luna-lu-org",
     "status": "up",
-    "uptime": "93.50%",
+    "uptime": "94.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "93.50%",
-    "time": 1067,
-    "timeDay": 527,
-    "timeWeek": 1067,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "94.36%",
+    "uptimeYear": "94.36%",
+    "time": 1035,
+    "timeDay": 556,
+    "timeWeek": 1035,
+    "timeMonth": 1035,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-09-09": 108,
       "2024-09-08": 324
-    }
-  },
-  {
-    "name": "NextCloud",
-    "url": "https://nextcloud.lunalu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/nextcloud.lunalu.org.ico",
-    "slug": "next-cloud",
-    "status": "down",
-    "uptime": "35.38%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "35.38%",
-    "uptimeMonth": "35.38%",
-    "uptimeYear": "35.38%",
-    "time": 2378,
-    "timeDay": 3683,
-    "timeWeek": 2378,
-    "timeMonth": 2378,
-    "timeYear": 2378,
-    "dailyMinutesDown": {
-      "2024-09-12": 39,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440,
-      "2024-09-09": 828,
-      "2024-09-08": 538
     }
   }
 ]
